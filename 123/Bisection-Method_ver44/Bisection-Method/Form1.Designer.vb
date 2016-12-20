@@ -50,6 +50,7 @@ Partial Class Form1
         Me.Label12 = New System.Windows.Forms.Label()
         Me.Time_max_Box = New System.Windows.Forms.TextBox()
         Me.Label13 = New System.Windows.Forms.Label()
+        Me.Button1 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'ButtonExit
@@ -293,11 +294,21 @@ Partial Class Form1
         Me.Label13.TabIndex = 53
         Me.Label13.Text = "Салам Алекс"
         '
+        'Button1
+        '
+        Me.Button1.Location = New System.Drawing.Point(322, 118)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(75, 23)
+        Me.Button1.TabIndex = 54
+        Me.Button1.Text = "Press me!"
+        Me.Button1.UseVisualStyleBackColor = True
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(430, 446)
+        Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.Label13)
         Me.Controls.Add(Me.Time_max_Box)
         Me.Controls.Add(Me.Label12)
@@ -360,5 +371,5 @@ Partial Class Form1
     Friend WithEvents Label12 As System.Windows.Forms.Label
     Friend WithEvents Time_max_Box As System.Windows.Forms.TextBox
     Friend WithEvents Label13 As System.Windows.Forms.Label
-
+    Friend WithEvents Button1 As Button
 End Class

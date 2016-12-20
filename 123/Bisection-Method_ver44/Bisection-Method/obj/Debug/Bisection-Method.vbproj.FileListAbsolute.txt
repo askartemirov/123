@@ -74,3 +74,7 @@ D:\321\123\Bisection-Method_ver44\Bisection-Method\bin\Debug\Bisection-Method.ex
 D:\321\123\Bisection-Method_ver44\Bisection-Method\obj\Debug\Bisection-Method.exe
 D:\321\123\Bisection-Method_ver44\Bisection-Method\obj\Debug\Bisection-Method.xml
 D:\321\123\Bisection-Method_ver44\Bisection-Method\obj\Debug\Bisection-Method.pdb
+R:\321\123\123\Bisection-Method_ver44\Bisection-Method\bin\Debug\Bisection-Method.exe.config
+R:\321\123\123\Bisection-Method_ver44\Bisection-Method\obj\Debug\Bisection-Method.exe
+R:\321\123\123\Bisection-Method_ver44\Bisection-Method\obj\Debug\Bisection-Method.xml
+R:\321\123\123\Bisection-Method_ver44\Bisection-Method\obj\Debug\Bisection-Method.pdb
