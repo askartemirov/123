@@ -70,3 +70,7 @@ C:\Users\temirov\Desktop\ОРАТПО_лабы\ОРАТПО_1лаб_Temirov_A\Т
 C:\Users\temirov\Desktop\ОРАТПО_лабы\ОРАТПО_1лаб_Temirov_A\Темиров_А_ОРАТПО_лаб1_ver4_итог\Bisection-Method_ver44\Bisection-Method\obj\Debug\Bisection-Method.exe
 C:\Users\temirov\Desktop\ОРАТПО_лабы\ОРАТПО_1лаб_Temirov_A\Темиров_А_ОРАТПО_лаб1_ver4_итог\Bisection-Method_ver44\Bisection-Method\obj\Debug\Bisection-Method.xml
 C:\Users\temirov\Desktop\ОРАТПО_лабы\ОРАТПО_1лаб_Temirov_A\Темиров_А_ОРАТПО_лаб1_ver4_итог\Bisection-Method_ver44\Bisection-Method\obj\Debug\Bisection-Method.pdb
+D:\321\123\Bisection-Method_ver44\Bisection-Method\bin\Debug\Bisection-Method.exe.config
+D:\321\123\Bisection-Method_ver44\Bisection-Method\obj\Debug\Bisection-Method.exe
+D:\321\123\Bisection-Method_ver44\Bisection-Method\obj\Debug\Bisection-Method.xml
+D:\321\123\Bisection-Method_ver44\Bisection-Method\obj\Debug\Bisection-Method.pdb
