@@ -103,3 +103,7 @@ D:\321\123\Methods v.4.0\Methods\Methods\obj\Debug\Methods.form3.resources
 D:\321\123\Methods v.4.0\Methods\Methods\obj\Debug\Methods.form4.resources
 D:\321\123\Methods v.4.0\Methods\Methods\obj\Debug\Methods.Resources.resources
 D:\321\123\Methods v.4.0\Methods\Methods\obj\Debug\Methods.vbproj.GenerateResource.Cache
+R:\321\123\Methods v.4.0\Methods\Methods\bin\Debug\Methods.exe.config
+R:\321\123\Methods v.4.0\Methods\Methods\obj\Debug\Methods.exe
+R:\321\123\Methods v.4.0\Methods\Methods\obj\Debug\Methods.xml
+R:\321\123\Methods v.4.0\Methods\Methods\obj\Debug\Methods.pdb
