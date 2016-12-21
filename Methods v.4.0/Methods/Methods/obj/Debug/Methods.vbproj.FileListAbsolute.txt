@@ -89,3 +89,17 @@ R:\UniveR\5-семестр\Методы оптимизации_Labs_ПИ-3-13\Me
 R:\UniveR\5-семестр\Методы оптимизации_Labs_ПИ-3-13\Methods v.4.0\Methods\Methods\obj\Debug\Methods.form4.resources
 R:\UniveR\5-семестр\Методы оптимизации_Labs_ПИ-3-13\Methods v.4.0\Methods\Methods\obj\Debug\Methods.Resources.resources
 R:\UniveR\5-семестр\Методы оптимизации_Labs_ПИ-3-13\Methods v.4.0\Methods\Methods\obj\Debug\Methods.vbproj.GenerateResource.Cache
+D:\321\123\Methods v.4.0\Methods\Methods\bin\Debug\Methods.exe.config
+D:\321\123\Methods v.4.0\Methods\Methods\obj\Debug\Methods.exe
+D:\321\123\Methods v.4.0\Methods\Methods\obj\Debug\Methods.xml
+D:\321\123\Methods v.4.0\Methods\Methods\obj\Debug\Methods.pdb
+D:\321\123\Methods v.4.0\Methods\Methods\bin\Debug\Methods.exe
+D:\321\123\Methods v.4.0\Methods\Methods\bin\Debug\Methods.pdb
+D:\321\123\Methods v.4.0\Methods\Methods\bin\Debug\Methods.xml
+D:\321\123\Methods v.4.0\Methods\Methods\obj\Debug\Methods.vbprojResolveAssemblyReference.cache
+D:\321\123\Methods v.4.0\Methods\Methods\obj\Debug\Methods.Form1.resources
+D:\321\123\Methods v.4.0\Methods\Methods\obj\Debug\Methods.form2.resources
+D:\321\123\Methods v.4.0\Methods\Methods\obj\Debug\Methods.form3.resources
+D:\321\123\Methods v.4.0\Methods\Methods\obj\Debug\Methods.form4.resources
+D:\321\123\Methods v.4.0\Methods\Methods\obj\Debug\Methods.Resources.resources
+D:\321\123\Methods v.4.0\Methods\Methods\obj\Debug\Methods.vbproj.GenerateResource.Cache

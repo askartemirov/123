@@ -205,6 +205,7 @@ Partial Class form4
         Me.TextBox5.Name = "TextBox5"
         Me.TextBox5.Size = New System.Drawing.Size(193, 26)
         Me.TextBox5.TabIndex = 8
+        Me.TextBox5.Text = "100"
         '
         'Label4
         '
@@ -252,6 +253,7 @@ Partial Class form4
         Me.TextBox4.Name = "TextBox4"
         Me.TextBox4.Size = New System.Drawing.Size(193, 26)
         Me.TextBox4.TabIndex = 3
+        Me.TextBox4.Text = "0,001"
         '
         'TextBox3
         '
@@ -259,6 +261,7 @@ Partial Class form4
         Me.TextBox3.Name = "TextBox3"
         Me.TextBox3.Size = New System.Drawing.Size(83, 26)
         Me.TextBox3.TabIndex = 2
+        Me.TextBox3.Text = "1"
         '
         'TextBox2
         '
@@ -266,6 +269,7 @@ Partial Class form4
         Me.TextBox2.Name = "TextBox2"
         Me.TextBox2.Size = New System.Drawing.Size(80, 26)
         Me.TextBox2.TabIndex = 1
+        Me.TextBox2.Text = "2"
         '
         'TextBox1
         '
@@ -273,6 +277,7 @@ Partial Class form4
         Me.TextBox1.Name = "TextBox1"
         Me.TextBox1.Size = New System.Drawing.Size(193, 26)
         Me.TextBox1.TabIndex = 0
+        Me.TextBox1.Text = "x^2-4*sin(x)" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10)
         '
         'Button2
         '

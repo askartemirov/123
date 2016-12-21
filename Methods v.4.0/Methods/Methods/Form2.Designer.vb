@@ -175,6 +175,7 @@ Partial Class form2
         Me.TextBox3.Name = "TextBox3"
         Me.TextBox3.Size = New System.Drawing.Size(196, 26)
         Me.TextBox3.TabIndex = 14
+        Me.TextBox3.Text = "100"
         '
         'TextBox1
         '
@@ -183,6 +184,7 @@ Partial Class form2
         Me.TextBox1.Name = "TextBox1"
         Me.TextBox1.Size = New System.Drawing.Size(196, 26)
         Me.TextBox1.TabIndex = 1
+        Me.TextBox1.Text = "x^2-4*sin(x)"
         '
         'TextBox2
         '
@@ -191,6 +193,7 @@ Partial Class form2
         Me.TextBox2.Name = "TextBox2"
         Me.TextBox2.Size = New System.Drawing.Size(85, 26)
         Me.TextBox2.TabIndex = 2
+        Me.TextBox2.Text = "2"
         '
         'TextBox4
         '
@@ -199,6 +202,7 @@ Partial Class form2
         Me.TextBox4.Name = "TextBox4"
         Me.TextBox4.Size = New System.Drawing.Size(196, 26)
         Me.TextBox4.TabIndex = 4
+        Me.TextBox4.Text = "0,0001"
         '
         'Label1
         '
