@@ -1,0 +1,91 @@
+C:\Users\Barko\Desktop\Optimization\Methods optimization\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\Barko\Desktop\Optimization\Methods optimization\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\Barko\Desktop\Optimization\Methods optimization\Methods\Methods\bin\Debug\Methods.pdb
+C:\Users\Barko\Desktop\Optimization\Methods optimization\Methods\Methods\bin\Debug\Methods.xml
+C:\Users\Barko\Desktop\Optimization\Methods optimization\Methods\Methods\bin\Debug\info.lundin.math.dll
+C:\Users\Barko\Desktop\Optimization\Methods optimization\Methods\Methods\obj\Debug\Methods.vbprojResolveAssemblyReference.cache
+C:\Users\Barko\Desktop\Optimization\Methods optimization\Methods\Methods\obj\Debug\Methods.Form1.resources
+C:\Users\Barko\Desktop\Optimization\Methods optimization\Methods\Methods\obj\Debug\Methods.form2.resources
+C:\Users\Barko\Desktop\Optimization\Methods optimization\Methods\Methods\obj\Debug\Methods.Resources.resources
+C:\Users\Barko\Desktop\Optimization\Methods optimization\Methods\Methods\obj\Debug\Methods.vbproj.GenerateResource.Cache
+C:\Users\Barko\Desktop\Optimization\Methods optimization\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\Barko\Desktop\Optimization\Methods optimization\Methods\Methods\obj\Debug\Methods.xml
+C:\Users\Barko\Desktop\Optimization\Methods optimization\Methods\Methods\obj\Debug\Methods.pdb
+C:\Users\Barko\Desktop\Optimization\Methods optimization\Methods\Methods\obj\Debug\Methods.form3.resources
+C:\Users\Barko\Desktop\Optimization\Methods optimization\Methods\Methods\obj\Debug\Methods.form4.resources
+C:\Users\Barko\Desktop\Methods optimization\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\Barko\Desktop\Methods optimization\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\Barko\Desktop\Methods optimization\Methods\Methods\obj\Debug\Methods.xml
+C:\Users\Barko\Desktop\Methods optimization\Methods\Methods\obj\Debug\Methods.pdb
+C:\Users\Barko\Desktop\Methods optimization\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\Barko\Desktop\Methods optimization\Methods\Methods\bin\Debug\Methods.pdb
+C:\Users\Barko\Desktop\Methods optimization\Methods\Methods\bin\Debug\Methods.xml
+C:\Users\Barko\Desktop\Methods optimization\Methods\Methods\obj\Debug\Methods.vbprojResolveAssemblyReference.cache
+C:\Users\Barko\Desktop\Methods optimization\Methods\Methods\obj\Debug\Methods.Form1.resources
+C:\Users\Barko\Desktop\Methods optimization\Methods\Methods\obj\Debug\Methods.form2.resources
+C:\Users\Barko\Desktop\Methods optimization\Methods\Methods\obj\Debug\Methods.form3.resources
+C:\Users\Barko\Desktop\Methods optimization\Methods\Methods\obj\Debug\Methods.form4.resources
+C:\Users\Barko\Desktop\Methods optimization\Methods\Methods\obj\Debug\Methods.Resources.resources
+C:\Users\Barko\Desktop\Methods optimization\Methods\Methods\obj\Debug\Methods.vbproj.GenerateResource.Cache
+C:\Users\Barko\Desktop\Methods optimization\Methods v.2.00\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\Barko\Desktop\Methods optimization\Methods v.2.00\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\Barko\Desktop\Methods optimization\Methods v.2.00\Methods\Methods\obj\Debug\Methods.xml
+C:\Users\Barko\Desktop\Methods optimization\Methods v.2.00\Methods\Methods\obj\Debug\Methods.pdb
+C:\Users\Barko\Desktop\Methods optimization\Methods v.2.00\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\Barko\Desktop\Methods optimization\Methods v.2.00\Methods\Methods\bin\Debug\Methods.pdb
+C:\Users\Barko\Desktop\Methods optimization\Methods v.2.00\Methods\Methods\bin\Debug\Methods.xml
+C:\Users\Barko\Desktop\Methods optimization\Methods v.2.00\Methods\Methods\bin\Debug\info.lundin.math.dll
+C:\Users\Barko\Desktop\Methods optimization\Methods v.2.00\Methods\Methods\obj\Debug\Methods.vbprojResolveAssemblyReference.cache
+C:\Users\Barko\Desktop\Methods optimization\Methods v.2.00\Methods\Methods\obj\Debug\Methods.Form1.resources
+C:\Users\Barko\Desktop\Methods optimization\Methods v.2.00\Methods\Methods\obj\Debug\Methods.form2.resources
+C:\Users\Barko\Desktop\Methods optimization\Methods v.2.00\Methods\Methods\obj\Debug\Methods.form3.resources
+C:\Users\Barko\Desktop\Methods optimization\Methods v.2.00\Methods\Methods\obj\Debug\Methods.form4.resources
+C:\Users\Barko\Desktop\Methods optimization\Methods v.2.00\Methods\Methods\obj\Debug\Methods.Resources.resources
+C:\Users\Barko\Desktop\Methods optimization\Methods v.2.00\Methods\Methods\obj\Debug\Methods.vbproj.GenerateResource.Cache
+X:\с рабочего стола\Methods optimization\Methods v.3.0\Methods\Methods\bin\Debug\Methods.exe.config
+X:\с рабочего стола\Methods optimization\Methods v.3.0\Methods\Methods\obj\Debug\Methods.exe
+X:\с рабочего стола\Methods optimization\Methods v.3.0\Methods\Methods\obj\Debug\Methods.xml
+X:\с рабочего стола\Methods optimization\Methods v.3.0\Methods\Methods\obj\Debug\Methods.pdb
+X:\с рабочего стола\Methods optimization\Methods v.3.0\Methods\Methods\bin\Debug\Methods.exe
+X:\с рабочего стола\Methods optimization\Methods v.3.0\Methods\Methods\bin\Debug\Methods.pdb
+X:\с рабочего стола\Methods optimization\Methods v.3.0\Methods\Methods\bin\Debug\Methods.xml
+X:\с рабочего стола\Methods optimization\Methods v.3.0\Methods\Methods\bin\Debug\info.lundin.math.dll
+X:\с рабочего стола\Methods optimization\Methods v.3.0\Methods\Methods\obj\Debug\Methods.vbprojResolveAssemblyReference.cache
+X:\с рабочего стола\Methods optimization\Methods v.3.0\Methods\Methods\obj\Debug\Methods.Form1.resources
+X:\с рабочего стола\Methods optimization\Methods v.3.0\Methods\Methods\obj\Debug\Methods.form2.resources
+X:\с рабочего стола\Methods optimization\Methods v.3.0\Methods\Methods\obj\Debug\Methods.form3.resources
+X:\с рабочего стола\Methods optimization\Methods v.3.0\Methods\Methods\obj\Debug\Methods.form4.resources
+X:\с рабочего стола\Methods optimization\Methods v.3.0\Methods\Methods\obj\Debug\Methods.Resources.resources
+X:\с рабочего стола\Methods optimization\Methods v.3.0\Methods\Methods\obj\Debug\Methods.vbproj.GenerateResource.Cache
+C:\Users\Alexander\Desktop\Methods v.4.0\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\Alexander\Desktop\Methods v.4.0\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\Alexander\Desktop\Methods v.4.0\Methods\Methods\obj\Debug\Methods.xml
+C:\Users\Alexander\Desktop\Methods v.4.0\Methods\Methods\obj\Debug\Methods.pdb
+C:\Users\Alexander\Desktop\Methods v.4.0\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\Alexander\Desktop\Methods v.4.0\Methods\Methods\bin\Debug\Methods.pdb
+C:\Users\Alexander\Desktop\Methods v.4.0\Methods\Methods\bin\Debug\Methods.xml
+C:\Users\Alexander\Desktop\Methods v.4.0\Methods\Methods\obj\Debug\Methods.vbprojResolveAssemblyReference.cache
+C:\Users\Alexander\Desktop\Methods v.4.0\Methods\Methods\obj\Debug\Methods.Form1.resources
+C:\Users\Alexander\Desktop\Methods v.4.0\Methods\Methods\obj\Debug\Methods.form2.resources
+C:\Users\Alexander\Desktop\Methods v.4.0\Methods\Methods\obj\Debug\Methods.form3.resources
+C:\Users\Alexander\Desktop\Methods v.4.0\Methods\Methods\obj\Debug\Methods.form4.resources
+C:\Users\Alexander\Desktop\Methods v.4.0\Methods\Methods\obj\Debug\Methods.Resources.resources
+C:\Users\Alexander\Desktop\Methods v.4.0\Methods\Methods\obj\Debug\Methods.vbproj.GenerateResource.Cache
+X:\UniveR\5-семестр\Методы оптимизации_Labs_ПИ-3-13\Methods v.4.0\Methods\Methods\bin\Debug\Methods.exe.config
+X:\UniveR\5-семестр\Методы оптимизации_Labs_ПИ-3-13\Methods v.4.0\Methods\Methods\obj\Debug\Methods.exe
+X:\UniveR\5-семестр\Методы оптимизации_Labs_ПИ-3-13\Methods v.4.0\Methods\Methods\obj\Debug\Methods.xml
+X:\UniveR\5-семестр\Методы оптимизации_Labs_ПИ-3-13\Methods v.4.0\Methods\Methods\obj\Debug\Methods.pdb
+R:\UniveR\5-семестр\Методы оптимизации_Labs_ПИ-3-13\Methods v.4.0\Methods\Methods\bin\Debug\Methods.exe.config
+R:\UniveR\5-семестр\Методы оптимизации_Labs_ПИ-3-13\Methods v.4.0\Methods\Methods\obj\Debug\Methods.exe
+R:\UniveR\5-семестр\Методы оптимизации_Labs_ПИ-3-13\Methods v.4.0\Methods\Methods\obj\Debug\Methods.xml
+R:\UniveR\5-семестр\Методы оптимизации_Labs_ПИ-3-13\Methods v.4.0\Methods\Methods\obj\Debug\Methods.pdb
+R:\UniveR\5-семестр\Методы оптимизации_Labs_ПИ-3-13\Methods v.4.0\Methods\Methods\bin\Debug\Methods.exe
+R:\UniveR\5-семестр\Методы оптимизации_Labs_ПИ-3-13\Methods v.4.0\Methods\Methods\bin\Debug\Methods.pdb
+R:\UniveR\5-семестр\Методы оптимизации_Labs_ПИ-3-13\Methods v.4.0\Methods\Methods\bin\Debug\Methods.xml
+R:\UniveR\5-семестр\Методы оптимизации_Labs_ПИ-3-13\Methods v.4.0\Methods\Methods\obj\Debug\Methods.vbprojResolveAssemblyReference.cache
+R:\UniveR\5-семестр\Методы оптимизации_Labs_ПИ-3-13\Methods v.4.0\Methods\Methods\obj\Debug\Methods.Form1.resources
+R:\UniveR\5-семестр\Методы оптимизации_Labs_ПИ-3-13\Methods v.4.0\Methods\Methods\obj\Debug\Methods.form2.resources
+R:\UniveR\5-семестр\Методы оптимизации_Labs_ПИ-3-13\Methods v.4.0\Methods\Methods\obj\Debug\Methods.form3.resources
+R:\UniveR\5-семестр\Методы оптимизации_Labs_ПИ-3-13\Methods v.4.0\Methods\Methods\obj\Debug\Methods.form4.resources
+R:\UniveR\5-семестр\Методы оптимизации_Labs_ПИ-3-13\Methods v.4.0\Methods\Methods\obj\Debug\Methods.Resources.resources
+R:\UniveR\5-семестр\Методы оптимизации_Labs_ПИ-3-13\Methods v.4.0\Methods\Methods\obj\Debug\Methods.vbproj.GenerateResource.Cache
